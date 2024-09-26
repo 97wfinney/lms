@@ -1,6 +1,8 @@
 # lms
 
-This project is a basic script to help choose a team for Fantasy Premier League (FPL) each week. It uses data from the official FPL API to analyze team strengths and suggests the strongest available team for the upcoming gameweek.
+This project is a basic script to help choose a team for Last Man Standing (LMS) each week. Each player starts with three lives and must choose a Premier League team each gameweek to win. You are not able to choose the same team more than once. If your team fails to win you lose a life. The last man standing wins the pot. 
+
+It uses data from the official FPL API to analyze team strengths and suggests the strongest available team for the upcoming gameweek.
 
 ## Features
 
